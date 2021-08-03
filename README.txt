@@ -1,3 +1,5 @@
+Add from list generated handwriting to PDF
+
 This project will take in a list of information and insert it into a pdf.
 The inserted information should look like handwriting.
 This pdf then merge with a template.
